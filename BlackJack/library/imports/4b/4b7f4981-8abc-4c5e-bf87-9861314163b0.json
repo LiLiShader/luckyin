@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "USDT",
+    "texture": "19f151e1-e814-486c-a378-5d415a793ab9",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      92,
+      91
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      94,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+    "asset": {
+        "generator": "FBX2glTF",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 501184,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 20160,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 30324,
+            "byteOffset": 20160,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 30324,
+            "byteOffset": 50484,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 20216,
+            "byteOffset": 80808,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 20160,
+            "byteOffset": 101024,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 30324,
+            "byteOffset": 121184,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 30324,
+            "byteOffset": 151508,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 20216,
+            "byteOffset": 181832,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 36288,
+            "byteOffset": 202048,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 42480,
+            "byteOffset": 238336,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 42480,
+            "byteOffset": 280816,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 28320,
+            "byteOffset": 323296,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 36288,
+            "byteOffset": 351616,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 42480,
+            "byteOffset": 387904,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 42480,
+            "byteOffset": 430384,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 28320,
+            "byteOffset": 472864,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 10080,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2527,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                -0.00491504976525903,
+                -0.00489636976271868,
+                5.79699990339577e-05
+            ],
+            "max": [
+                0.00491503998637199,
+                0.00491017987951636,
+                0.00988826993852854
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2527,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2527,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 10080,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2527,
+            "bufferView": 5,
+            "byteOffset": 0,
+            "min": [
+                -0.00491504976525903,
+                -0.00489636976271868,
+                5.79699990339577e-05
+            ],
+            "max": [
+                0.00491503998637199,
+                0.00491017987951636,
+                0.00988826993852854
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2527,
+            "bufferView": 6,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2527,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 18144,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 3540,
+            "bufferView": 9,
+            "byteOffset": 0,
+            "min": [
+                -0.00499096978455782,
+                -0.00499103963375092,
+                -7.98000019130995e-06
+            ],
+            "max": [
+                0.00499098002910614,
+                0.00499184988439083,
+                0.0099800992757082
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 3540,
+            "bufferView": 10,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 3540,
+            "bufferView": 11,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 18144,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 3540,
+            "bufferView": 13,
+            "byteOffset": 0,
+            "min": [
+                -0.00499096978455782,
+                -0.00499103963375092,
+                -7.98000019130995e-06
+            ],
+            "max": [
+                0.00499098002910614,
+                0.00499184988439083,
+                0.0099800992757082
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 3540,
+            "bufferView": 14,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 3540,
+            "bufferView": 15,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "Black plastic",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "<unknown>",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0784313753247261,
+                    0.0784313753247261,
+                    0.0784313753247261,
+                    0.999992787837982
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        },
+        {
+            "name": "Oro",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "<unknown>",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "CASINO_CUBE",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0
+                },
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 10,
+                        "POSITION": 9,
+                        "TEXCOORD_0": 11
+                    },
+                    "indices": 8
+                }
+            ]
+        },
+        {
+            "name": "CASINO_CUBE01",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 5,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 4
+                },
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 14,
+                        "POSITION": 13,
+                        "TEXCOORD_0": 15
+                    },
+                    "indices": 12
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1,
+                2
+            ]
+        },
+        {
+            "name": "CASINO_CUBE",
+            "translation": [
+                -8.36692607986019e-20,
+                0.119034059345722,
+                5.20314413776646e-09
+            ],
+            "rotation": [
+                0.0180387757718563,
+                9.85038059297949e-05,
+                0.00545970071107149,
+                0.999822378158569
+            ],
+            "scale": [
+                22.7529487609863,
+                22.7529487609863,
+                22.7529487609863
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "CASINO_CUBE01",
+            "translation": [
+                -0.315319329500198,
+                0.119034059345722,
+                -0.160434484481812
+            ],
+            "rotation": [
+                0.0185745730996132,
+                0.123457498848438,
+                0.00319233071058989,
+                0.992170870304108
+            ],
+            "scale": [
+                22.7529487609863,
+                22.7529487609863,
+                22.7529487609863
+            ],
+            "mesh": 1
+        }
+    ]
+}

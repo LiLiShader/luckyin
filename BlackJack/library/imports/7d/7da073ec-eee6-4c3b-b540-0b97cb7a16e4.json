@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ETH",
+    "texture": "34ba5b98-ed27-4b46-8cf3-047f3ba3e7ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      91
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      94,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

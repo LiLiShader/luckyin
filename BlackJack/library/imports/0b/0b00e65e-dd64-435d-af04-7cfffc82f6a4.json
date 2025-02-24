@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TRX",
+    "texture": "f1231fee-6518-495a-9ef0-053dc6c002c6",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      92,
+      93
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      94,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
